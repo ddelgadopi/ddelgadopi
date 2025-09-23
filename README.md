@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🤖 Developing EcoScan, an application with TensorFlow, OpenCV y React Native.</p>
+<p align="left">🤖 Developing DrawBoard, an application with React Native.</p>
 
 ###
 
