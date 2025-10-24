@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🤖 Developing DrawBoard, an application with React Native.</p>
+<p align="left">Developing OwlBoard, an application with React Native.</p>
 
 ###
 
-<h3 align="left">🛠️ Technologies and tools:</h3>
+<h3 align="left">Technologies and tools:</h3>
 
 ###
 
