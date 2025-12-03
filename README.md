@@ -40,12 +40,20 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ddelgadopi&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=ddelgadopi&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs?username=ddelgadopi&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddelgadopi&theme=github-dark&hide_border=false" height="200" alt="activity graph" />
-</div>
 
+<!-- MAIN STATS -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ddelgadopi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="160" alt="stats graph"/>
+
+<!-- STREAK -->
+<img src="https://streak-stats.demolab.com/?user=ddelgadopi&theme=dark&hide_border=false" height="160" alt="streak graph"/>
+
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ddelgadopi&layout=compact&theme=dark&hide_border=false&langs_count=8" height="160" alt="languages graph"/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ddelgadopi&theme=github-dark&hide_border=false" height="250" alt="activity graph"/>
+
+</div>
 ---
 
 ### Tools I Use
