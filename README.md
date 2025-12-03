@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Developing OwlBoard, an application based on microservices architecture, [WIP] deployed in cloud.</p>
+<p align="left">Developing OwlBoard, an application based on microservices architecture, [WIP] deployed in cloud. Link: https://github.com/OwlBoard</p>
 
 ###
 
